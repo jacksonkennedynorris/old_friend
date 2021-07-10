@@ -1,0 +1,102 @@
+,state,candidate,party_detailed,candidatevotes,totalvotes
+2042,Alabama,"BUSH, GEORGE W.",Republican,941173,1666272
+2043,Alabama,"GORE, AL",Democrat,692611,1666272
+2047,Alaska,"BUSH, GEORGE W.",Republican,167398,285560
+2048,Alaska,"GORE, AL",Democrat,79004,285560
+2055,Arizona,"BUSH, GEORGE W.",Republican,781652,1532016
+2056,Arizona,"GORE, AL",Democrat,685341,1532016
+2062,Arkansas,"BUSH, GEORGE W.",Republican,472940,921781
+2063,Arkansas,"GORE, AL",Democrat,422768,921781
+2069,California,"GORE, AL",Democrat,5861203,10965822
+2070,California,"BUSH, GEORGE W.",Republican,4567429,10965822
+2076,Colorado,"BUSH, GEORGE W.",Republican,883748,1741368
+2077,Colorado,"GORE, AL",Democrat,738227,1741368
+2086,Connecticut,"GORE, AL",Democrat,816015,1459525
+2087,Connecticut,"BUSH, GEORGE W.",Republican,561094,1459525
+2093,Delaware,"GORE, AL",Democrat,180068,327529
+2094,Delaware,"BUSH, GEORGE W.",Republican,137288,327529
+2100,District of Columbia,"GORE, AL",Democrat,171923,201894
+2101,District of Columbia,"BUSH, GEORGE W.",Republican,18073,201894
+2106,Florida,"BUSH, GEORGE W.",Republican,2912790,5963110
+2107,Florida,"GORE, AL",Democrat,2912253,5963110
+2117,Georgia,"BUSH, GEORGE W.",Republican,1419720,2583208
+2118,Georgia,"GORE, AL",Democrat,1116230,2583208
+2121,Hawaii,"GORE, AL",Democrat,205286,367951
+2122,Hawaii,"BUSH, GEORGE W.",Republican,137845,367951
+2128,Idaho,"BUSH, GEORGE W.",Republican,336937,501615
+2129,Idaho,"GORE, AL",Democrat,138637,501615
+2135,Illinois,"GORE, AL",Democrat,2589026,4742108
+2136,Illinois,"BUSH, GEORGE W.",Republican,2019421,4742108
+2142,Indiana,"BUSH, GEORGE W.",Republican,1245836,2199302
+2143,Indiana,"GORE, AL",Democrat,901980,2199302
+2147,Iowa,"GORE, AL",Democrat,638517,1353022
+2148,Iowa,"BUSH, GEORGE W.",Republican,634373,1353022
+2158,Kansas,"BUSH, GEORGE W.",Republican,622332,1072216
+2159,Kansas,"GORE, AL",Democrat,399276,1072216
+2164,Kentucky,"BUSH, GEORGE W.",Republican,872520,1544106
+2165,Kentucky,"GORE, AL",Democrat,638923,1544106
+2172,Louisiana,"BUSH, GEORGE W.",Republican,927871,1765656
+2173,Louisiana,"GORE, AL",Democrat,792344,1765656
+2180,Maine,"GORE, AL",Democrat,319951,651817
+2181,Maine,"BUSH, GEORGE W.",Republican,286616,651817
+2187,Maryland,"GORE, AL",Democrat,1144008,2025212
+2188,Maryland,"BUSH, GEORGE W.",Republican,813827,2025212
+2195,Massachusetts,"GORE, AL",Democrat,1616487,2733964
+2196,Massachusetts,"BUSH, GEORGE W.",Republican,878502,2733964
+2203,Michigan,"GORE, AL",Democrat,2170418,4232501
+2204,Michigan,"BUSH, GEORGE W.",Republican,1953139,4232501
+2211,Minnesota,"BUSH, GEORGE W.",Republican,1109659,2438685
+2219,Mississippi,"BUSH, GEORGE W.",Republican,572844,994184
+2220,Mississippi,"GORE, AL",Democrat,404614,994184
+2226,Missouri,"BUSH, GEORGE W.",Republican,1189924,2359892
+2227,Missouri,"GORE, AL",Democrat,1111138,2359892
+2233,Montana,"BUSH, GEORGE W.",Republican,240178,410986
+2234,Montana,"GORE, AL",Democrat,137126,410986
+2240,Nebraska,"BUSH, GEORGE W.",Republican,433862,697019
+2241,Nebraska,"GORE, AL",Democrat,231780,697019
+2246,Nevada,"BUSH, GEORGE W.",Republican,301575,609426
+2247,Nevada,"GORE, AL",Democrat,279978,609426
+2256,New Hampshire,"BUSH, GEORGE W.",Republican,273559,569081
+2257,New Hampshire,"GORE, AL",Democrat,266348,569081
+2263,New Jersey,"GORE, AL",Democrat,1788850,3187226
+2264,New Jersey,"BUSH, GEORGE W.",Republican,1284173,3187226
+2266,New Mexico,"GORE, AL",Democrat,286783,598605
+2267,New Mexico,"BUSH, GEORGE W.",Republican,286417,598605
+2273,New York,"GORE, AL",Democrat,3942215,6960215
+2274,New York,"BUSH, GEORGE W.",Republican,2258577,6960215
+2287,North Carolina,"BUSH, GEORGE W.",Republican,1631163,2914990
+2288,North Carolina,"GORE, AL",Democrat,1257692,2914990
+2292,North Dakota,"BUSH, GEORGE W.",Republican,174852,288256
+2293,North Dakota,"GORE, AL",Democrat,95284,288256
+2297,Ohio,"BUSH, GEORGE W.",Republican,2350363,4701998
+2298,Ohio,"GORE, AL",Democrat,2183628,4701998
+2302,Oklahoma,"BUSH, GEORGE W.",Republican,744337,1234229
+2303,Oklahoma,"GORE, AL",Democrat,474276,1234229
+2306,Oregon,"GORE, AL",Democrat,720342,1533950
+2307,Oregon,"BUSH, GEORGE W.",Republican,713577,1533950
+2314,Pennsylvania,"GORE, AL",Democrat,2485967,4912185
+2315,Pennsylvania,"BUSH, GEORGE W.",Republican,2281127,4912185
+2320,Rhode Island,"GORE, AL",Democrat,249508,409112
+2321,Rhode Island,"BUSH, GEORGE W.",Republican,130555,409112
+2331,South Carolina,"BUSH, GEORGE W.",Republican,786892,1383902
+2332,South Carolina,"GORE, AL",Democrat,566037,1383902
+2338,South Dakota,"BUSH, GEORGE W.",Republican,190700,316269
+2339,South Dakota,"GORE, AL",Democrat,118804,316269
+2343,Tennessee,"BUSH, GEORGE W.",Republican,1061949,2076181
+2344,Tennessee,"GORE, AL",Democrat,981720,2076181
+2347,Texas,"BUSH, GEORGE W.",Republican,3799639,6407637
+2348,Texas,"GORE, AL",Democrat,2433746,6407637
+2353,Utah,"BUSH, GEORGE W.",Republican,515096,770754
+2354,Utah,"GORE, AL",Democrat,203053,770754
+2363,Vermont,"GORE, AL",Democrat,149022,294308
+2364,Vermont,"BUSH, GEORGE W.",Republican,119775,294308
+2374,Virginia,"BUSH, GEORGE W.",Republican,1437490,2739447
+2375,Virginia,"GORE, AL",Democrat,1217290,2739447
+2381,Washington,"GORE, AL",Democrat,1247652,2487433
+2382,Washington,"BUSH, GEORGE W.",Republican,1108864,2487433
+2391,West Virginia,"BUSH, GEORGE W.",Republican,336475,648124
+2392,West Virginia,"GORE, AL",Democrat,295497,648124
+2398,Wisconsin,"GORE, AL",Democrat,1242987,2598607
+2399,Wisconsin,"BUSH, GEORGE W.",Republican,1237279,2598607
+2405,Wyoming,"BUSH, GEORGE W.",Republican,147947,213726
+2406,Wyoming,"GORE, AL",Democrat,60481,213726

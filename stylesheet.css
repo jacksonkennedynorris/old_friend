@@ -1,0 +1,161 @@
+h1{
+    color:#1A1E3A;
+    width: 90%;
+    float:center;
+    font-size: 32px;
+    margin-top:5px;
+    margin-bottom:5px;
+  }
+  h2{
+    color:#8D0D1A;
+    width: 70%;
+    
+    margin-top:5px;
+    margin-bottom:5px;
+  }
+  body{
+    background-color:#D1D0E3;
+    right:20%
+  }
+  .year{
+    position: fixed;
+    color: black;
+    top:5;
+    right:0;
+    margin-top:5px;
+    margin-bottom:5px;
+    width: 8%;
+  }
+  .democrat{
+    color: #065DB6;
+    float:left;
+  
+  }
+  .democrat:hover{
+    font-size: 30px;
+  }
+  .republican:hover{
+    font-size: 30px;
+  }
+  
+  .republican{
+    color: #D74934;
+    float:left;
+  }
+  .straightUp text{
+    pointer-events: none;
+  }
+  .year76 {
+    position: fixed;
+    background-color: #22292E;
+    color: white;
+    top:20%;
+    right:0;
+    height:5%;
+    width:8%;
+  }
+  .year80{
+    position: fixed;
+    background-color: #22292E;
+    color: white;
+    top:25%;
+    right:0;
+    height:5%;
+    width:8%;
+  }
+  .year84{
+    position: fixed;
+    background-color: #22292E;
+    color: white;
+    top:30%;
+    right:0;
+    height:5%;
+    width:8%;
+  }
+  .year88{
+    position: fixed;
+    background-color: #22292E;
+    color: white;
+    top:35%;
+    right:0;
+    height:5%;
+    width: 8%;
+  }
+  .year92{
+    position: fixed;
+    background-color: #22292E;
+    color: white;
+    top:40%;
+    right:0;
+    height:5%;
+    width:8%;
+  }
+  .year96{
+    position: fixed;
+    background-color: #22292E;
+    color: white;
+    top:45%;
+    right:0;
+    height:5%;
+    width:8%;
+  }
+  .year00{
+    position: fixed;
+    background-color: #22292E;
+    color: white;
+    top:50%;
+    right:0;
+    height:5%;
+    width:8%;
+  }
+  .year04{
+    position: fixed;
+    background-color: #22292E;
+    color: white;
+    top:55%;
+    right:0;
+    height:5%;
+    width:8%;
+  }
+  .year08{
+    position: fixed;
+    background-color: #22292E;
+    color: white;
+    top:60%;
+    right:0;
+    height:5%;
+    width:8%;
+  }
+  .year12{
+    position: fixed;
+    background-color: #22292E;
+    color: white;
+    top:65%;
+    right:0;
+    height:5%;
+    width:8%;
+  
+  }
+  .year16{
+    position: fixed;
+    background-color: #22292E;
+    color: white;
+    top:70%;
+    right:0;
+    height:5%;
+    width:8%;
+  }
+  button{
+    font-size:14px;
+  }
+  #tooltip{
+    position:absolute;
+    width:200px;
+    height:auto;
+    background-color:'white';
+    pointer-events: none;
+  }
+  #tooltip.hidden{
+    display:none;
+  }
+  
