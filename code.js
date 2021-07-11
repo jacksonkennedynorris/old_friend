@@ -1,6 +1,71 @@
-data_prom = d3.csv("map_2020.csv")
+//data_prom = d3.csv("map_1984.csv")
 map_prom = d3.json("usaJSON.json")
 
+var my_string = "map_"
+var csv_end = ".csv"
+var year; 
+var myarray = []; 
+var button_list = [] 
+
+latest_year = 2020
+
+for (year = latest_year; year>=1976; year = year-4){
+
+  var btn = document.createElement("BUTTON");   // Create a <button> element
+  btn.setAttribute("id", "button" + year.toString())
+  btn.setAttribute("year", year)
+  if (year >= 2000){
+    short = (year % 2000).toString()
+    if (year < 2010){
+      short = "0" + short
+    }
+  }
+  else{
+    short = (year%1900).toString()
+  }
+  btn.innerHTML = year.toString();                   // Insert text
+  document.getElementById("button_div").appendChild(btn);               // Append <button> to <body>
+  button_list.push(btn)
+  var get_promise = d3.csv(my_string + String(year) + csv_end)
+  var dict = {
+    year : year,
+    promise: get_promise
+  }
+  myarray.push(dict)
+}
+// Create buttons and once clicked send them to the promise
+for (i = 0; i<button_list.length; i++){
+    button_list[i].addEventListener ("click", function() {
+      for (j = 0; j<myarray.length; j++)
+      {
+        if (myarray[j].year == this.innerHTML){
+          push_to_function(myarray[j],false)
+        }
+      }
+    });
+  }
+var end = myarray[0]
+push_to_function(end,true)
+
+// This function pushes to the use data function 
+function push_to_function(year_dict,is_first_year) {
+  if (!is_first_year){
+      
+      d3.select('totalTable').remove()
+  }
+  var data_prom = year_dict.promise
+  var year = year_dict.year
+  //promise.then(function(data){useData()})
+
+  Promise.all([data_prom,map_prom]).then(function(data){
+    var state_d = data[0]
+    var map_d = data[1].features
+    
+    var data = state_d
+    draw_map(data,map_d)
+  })
+}
+/*
 Promise.all([data_prom,map_prom]).then(function(data){
 
     var state_d = data[0]
@@ -9,7 +74,7 @@ Promise.all([data_prom,map_prom]).then(function(data){
     var data = state_d
     draw_map(data,map_d)
 })
-
+*/
 var draw_map = function(data,geoP){
 
     console.log(data)
