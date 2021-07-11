@@ -129,11 +129,11 @@ var draw_map = function(data,geoP){
 }
 
 var get_dems = function(data){
-    return data.party_detailed == "Democrat"
+    return data.party_simplified == "Democrat"
 }
 
 var get_reps = function(data){
-    return data.party_detailed == "Republican"
+    return data.party_simplified == "Republican"
 }
 
 var get_state = function(data) {
