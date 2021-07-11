@@ -1,4 +1,4 @@
-,state,candidate,party_detailed,candidatevotes,totalvotes
+,state,candidate,party_simplified,candidatevotes,totalvotes
 2042,Alabama,"BUSH, GEORGE W.",Republican,941173,1666272
 2043,Alabama,"GORE, AL",Democrat,692611,1666272
 2047,Alaska,"BUSH, GEORGE W.",Republican,167398,285560
@@ -45,6 +45,7 @@
 2196,Massachusetts,"BUSH, GEORGE W.",Republican,878502,2733964
 2203,Michigan,"GORE, AL",Democrat,2170418,4232501
 2204,Michigan,"BUSH, GEORGE W.",Republican,1953139,4232501
+2210,Minnesota,"GORE, AL",Democrat,1168266,2438685
 2211,Minnesota,"BUSH, GEORGE W.",Republican,1109659,2438685
 2219,Mississippi,"BUSH, GEORGE W.",Republican,572844,994184
 2220,Mississippi,"GORE, AL",Democrat,404614,994184

@@ -1,4 +1,4 @@
-,state,candidate,party_detailed,candidatevotes,totalvotes
+,state,candidate,party_simplified,candidatevotes,totalvotes
 3079,Alabama,"ROMNEY, MITT",Republican,1255925,2074338
 3080,Alabama,"OBAMA, BARACK H.",Democrat,795696,2074338
 3083,Alaska,"ROMNEY, MITT",Republican,164676,300495
@@ -45,6 +45,7 @@
 3214,Massachusetts,"ROMNEY, MITT",Republican,1188314,3184196
 3219,Michigan,"OBAMA, BARACK H.",Democrat,2564569,4730961
 3220,Michigan,"ROMNEY, MITT",Republican,2115256,4730961
+3225,Minnesota,"OBAMA, BARACK H.",Democrat,1546167,2936561
 3226,Minnesota,"ROMNEY, MITT",Republican,1320225,2936561
 3236,Mississippi,"ROMNEY, MITT",Republican,710746,1285584
 3237,Mississippi,"OBAMA, BARACK H.",Democrat,562949,1285584

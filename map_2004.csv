@@ -1,4 +1,4 @@
-,state,candidate,party_detailed,candidatevotes,totalvotes
+,state,candidate,party_simplified,candidatevotes,totalvotes
 2411,Alabama,"BUSH, GEORGE W.",Republican,1176394,1883415
 2412,Alabama,"KERRY, JOHN",Democrat,693933,1883415
 2415,Alaska,"BUSH, GEORGE W.",Republican,190889,312598
@@ -46,6 +46,7 @@
 2546,Massachusetts,"BUSH, GEORGE W.",Republican,1071109,2927455
 2552,Michigan,"KERRY, JOHN",Democrat,2479183,4839252
 2553,Michigan,"BUSH, GEORGE W.",Republican,2313746,4839252
+2559,Minnesota,"KERRY, JOHN",Democrat,1445014,2828387
 2560,Minnesota,"BUSH, GEORGE W.",Republican,1346695,2828387
 2569,Mississippi,"BUSH, GEORGE W.",Republican,672660,1139824
 2570,Mississippi,"KERRY, JOHN",Democrat,457766,1139824
